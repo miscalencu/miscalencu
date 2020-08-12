@@ -8,12 +8,22 @@ My current interests are: DevOps, Web, Cloud, Open Source and Mobile.
 
 Some other infos about me:
 
->📜 <a href="https://www.linkedin.com/in/miscalencu" target="_blank">LinkedIn CV</a>  
->💻 <a href="http://stackoverflow.com/story/miscalencu" target="_blank">StackOverflow Story</a>  
->📞 +32473133531/+40721294851  
->📧 <a href="mailto:george.miscalencu@gmail.com">george.miscalencu@gmail.com</a>  
->💬 <a href="https://twitter.com/miscalencu" target="_blank">miscalencu @ Twitter</a>  
->💬 george.miscalencu @ Skype  
->🌎 Luxembourg, Europe  
-
+<table>
+  <tr>
+    <td width="50%">
+      <small>
+      📜 <a href="https://www.linkedin.com/in/miscalencu" target="_blank">LinkedIn CV</a><br /> 
+      💻 <a href="http://stackoverflow.com/story/miscalencu" target="_blank">StackOverflow Story</a><br />
+      📞 +32473133531/+40721294851<br />
+      📧 <a href="mailto:george.miscalencu@gmail.com">george.miscalencu@gmail.com</a><br />
+      💬 <a href="https://twitter.com/miscalencu" target="_blank">miscalencu @ Twitter</a><br /> 
+      💬 george.miscalencu @ Skype<br />
+      🌎 Luxembourg, Europe
+      </small>
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=miscalencu" />
+  </td>
+ </tr>
+</table>
 
