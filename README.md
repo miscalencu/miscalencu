@@ -2,7 +2,7 @@
 
 I am a Senior .Net Developer with 15+ years of experience in Microsoft Technologies (.Net/C#, MVC, MSSQL, Oracle, EF, VS, GIT, TFS, IIS). 
 
-During the time I have designed, developed, maintained and provided management leadership for complex applications/platforms.
+During the time I have designed, developed, maintained and provided management leadership for complex applications/systems.
 
 My current interests are: DevOps, Web, Cloud, Open Source and Mobile. 
 
