@@ -13,6 +13,7 @@ Some other infos about me:
     <td width="50%">
       <small>
       📜 <a href="https://www.linkedin.com/in/miscalencu" target="_blank">LinkedIn CV</a><br /> 
+      💻 <a href="https://stackoverflow.com/users/1468239/smartdev" target="_blank">StackOverflow Story</a><br />
       📞 +32473133531/+40721294851<br />
       📧 <a href="mailto:george.miscalencu@gmail.com">george.miscalencu@gmail.com</a><br />
       💬 <a href="https://twitter.com/miscalencu" target="_blank">miscalencu @ Twitter</a><br /> 
